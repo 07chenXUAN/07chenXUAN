@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @07chenXUAN
 - 👀 I’m interested in C++ python java C
-- 🌱 I’m currently learning OpenGL OpenCV Pytorch
+- 🌱 I’m currently learning OpenGL OpenCV Pytorch ROS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
